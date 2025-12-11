@@ -1,4 +1,4 @@
-# Proyecto-Lógica 🧠
+# Proyecto-Lógica 
 
 ## Descripción  
 Este repositorio contiene el trabajo final de la materia de Lógica para las Ciencias Informáticas 2025. El proyecto está implementado en Prolog y tiene como objetivo resolver ejercicios de lógica/formulación lógica — por ejemplo, problemas de existencia de vida inteligente en planetas, modelado de datos desde archivos CSV, consultas lógicas, etc.  
@@ -22,15 +22,15 @@ Este repositorio contiene el trabajo final de la materia de Lógica para las Cie
 5.Si se usan datos en planetas.csv, ajustar la lógica Prolog para leerlos (o convertirlos a hechos Prolog) según lo que se haya definido en el proyecto.
 
 ## Casos de uso
--Validar hipótesis sobre vida inteligente en planetas a partir de criterios lógicos.
--Ejemplificar el uso de lógica declarativa para modelar conocimiento y hacer inferencias.
--Proporcionar una base para proyectos educativos o prácticos donde se necesite razonamiento lógico con datos estructurados.
--Sirve como punto de partida para extensiones: agregar más reglas, nuevos predicados, filtros más complejos, importar otros datos, etc.
+- Validar hipótesis sobre vida inteligente en planetas a partir de criterios lógicos.
+- Ejemplificar el uso de lógica declarativa para modelar conocimiento y hacer inferencias.
+- Proporcionar una base para proyectos educativos o prácticos donde se necesite razonamiento lógico con datos estructurados.
+- Sirve como punto de partida para extensiones: agregar más reglas, nuevos predicados, filtros más complejos, importar otros datos, etc.
 
 ## Requisitos
--Intérprete Prolog (SWI-Prolog u otro compatible).
+- Intérprete Prolog (SWI-Prolog u otro compatible).
 
-##Integrantes
+## Integrantes
 Alvez Rojas Valentín
 Benítez Kevin Andrés
 Fernández Risso Martina
