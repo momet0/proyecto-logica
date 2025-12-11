@@ -31,7 +31,7 @@ Este repositorio contiene el trabajo final de la materia de Lógica para las Cie
 - Intérprete Prolog (SWI-Prolog u otro compatible).
 
 ## Integrantes
-Alvez Rojas Valentín
-Benítez Kevin Andrés
-Fernández Risso Martina
-Juárez Eduardo Martín
+- Alvez Rojas Valentín
+- Benítez Kevin Andrés
+- Fernández Risso Martina
+- Juárez Eduardo Martín
