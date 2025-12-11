@@ -18,8 +18,8 @@ Este repositorio contiene el trabajo final de la materia de Lógica para las Cie
 2. Asegurarse de tener instalado un intérprete Prolog compatible (por ejemplo SWI-Prolog).
 3. Cargar el archivo Prolog desde el intérprete, por ejemplo:
    ?- [vida_inteligente].
-4.Realizar las consultas lógicas definidas en el código. Por ejemplo, consultar qué planetas cumplen ciertas condiciones, buscar relaciones lógicas, etc.
-5.Si se usan datos en planetas.csv, ajustar la lógica Prolog para leerlos (o convertirlos a hechos Prolog) según lo que se haya definido en el proyecto.
+4. Realizar las consultas lógicas definidas en el código. Por ejemplo, consultar qué planetas cumplen ciertas condiciones, buscar relaciones lógicas, etc.
+5. Si se usan datos en planetas.csv, ajustar la lógica Prolog para leerlos (o convertirlos a hechos Prolog) según lo que se haya definido en el proyecto.
 
 ## Casos de uso
 - Validar hipótesis sobre vida inteligente en planetas a partir de criterios lógicos.
