@@ -21,13 +21,13 @@ Este repositorio contiene el trabajo final de la materia de Lógica para las Cie
 4.Realizar las consultas lógicas definidas en el código. Por ejemplo, consultar qué planetas cumplen ciertas condiciones, buscar relaciones lógicas, etc.
 5.Si se usan datos en planetas.csv, ajustar la lógica Prolog para leerlos (o convertirlos a hechos Prolog) según lo que se haya definido en el proyecto.
 
-##Casos de uso
+## Casos de uso
 -Validar hipótesis sobre vida inteligente en planetas a partir de criterios lógicos.
 -Ejemplificar el uso de lógica declarativa para modelar conocimiento y hacer inferencias.
 -Proporcionar una base para proyectos educativos o prácticos donde se necesite razonamiento lógico con datos estructurados.
 -Sirve como punto de partida para extensiones: agregar más reglas, nuevos predicados, filtros más complejos, importar otros datos, etc.
 
-##Requisitos
+## Requisitos
 -Intérprete Prolog (SWI-Prolog u otro compatible).
 
 ##Integrantes
